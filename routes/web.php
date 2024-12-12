@@ -33,3 +33,7 @@ require __DIR__.'/auth.php';
 
 //
 require __DIR__.'/auth.php';
+
+
+//Add new test route
+require __DIR__.'/auth.php';
